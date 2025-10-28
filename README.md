@@ -74,7 +74,7 @@ npm run validate:config
 npm test
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Basic Test Execution
 
